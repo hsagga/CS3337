@@ -1,1 +1,20 @@
-gitignore file 
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+
+!src
+!src/
+!src/**
+
+!libs
+!libs/
+!libs/**
+
+!*.txt
+!*.md
+
+# MAC HIDDEN FILES
+.DS_Store
+
