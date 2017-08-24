@@ -14,6 +14,7 @@
 
 !*.txt
 !*.md
+!*.java
 
 # MAC HIDDEN FILES
 .DS_Store
