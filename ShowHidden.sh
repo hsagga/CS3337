@@ -1,6 +1,7 @@
 # Need to add permission to run in .sh 
 # chmod +x ShowHidden.sh
 
+
 # Run the file by running this in terminal
 # ./ShowHidden.sh
 
