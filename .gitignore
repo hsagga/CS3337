@@ -14,6 +14,8 @@
 
 !*.txt
 !*.md
+!*.sh
+!*.py
 !*.java
 
 # MAC HIDDEN FILES
